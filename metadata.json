@@ -1,0 +1,7 @@
+{
+  "name": "FoodCarry - Care-Critical Logistics",
+  "description": "A specialized food delivery platform for fragile and temperature-sensitive items, featuring real-time telemetry, claymorphic UI, and AI-powered food safety consultations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
