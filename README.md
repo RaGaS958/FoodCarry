@@ -13,7 +13,7 @@
 
 ### *Developed as part of Google for Startups Course: Prototyping to Product*
 
-[🎬 Live Demo](https://ai.studio/apps/drive/1sZwgIuNTNP1qzbG9dXy5lj8hAUTecfqX?fullscreenApplet=true) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/RaGaS958/FoodCarry/issues) • [✨ Request Feature](https://github.com/RaGaS958/FoodCarry/issues)
+[🎬 Live Demo](https://ai.studio/apps/drive/1sZwgIuNTNP1qzbG9dXy5lj8hAUTecfqX?fullscreenApplet=true) • [📖 Documentation](https://github.com/RaGaS958/FoodCarry/blob/main/FoodCarry%20Startup%20Research%20Plan.pdf) • [🐛 Report Bug](https://github.com/RaGaS958/FoodCarry/issues) • [✨ Request Feature](https://github.com/RaGaS958/FoodCarry/issues)
 
 </div>
 
